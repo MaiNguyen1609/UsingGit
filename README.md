@@ -1,2 +1,0 @@
-# UsingGit
-Mai test
