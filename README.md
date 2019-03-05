@@ -1,2 +1,2 @@
 # UsingGit
-Mai checked. 
+Mai checked. Mai test 2
